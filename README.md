@@ -1,4 +1,5 @@
-# Simple javascript caalculator
+# Simple javascript calculator
 
-https://github.com/zokirjanov/JS-Calculator/assets/116636143/7e9d5953-b773-4a94-a05e-c8664558c8a6
+<br><br>
 
+![Recording 2024-06-09 171857](https://github.com/zokirjanov/JS-Calculator/assets/116636143/df4f50ea-3b58-41c7-958e-a6d4d3c79c12)
